@@ -93,4 +93,4 @@ if (promptFight === "fight" || promptFight === "FIGHT") {
     else {
       fight();
     }
- 
+ // fight()
